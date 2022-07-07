@@ -11,6 +11,7 @@ const Fileupload = () => {
   const [comment, setComment] = useState();
   const [fileresponse, setfileresponse] = useState();
   
+  
   // const staticlogin = async () => {
   //   const response = await staticLogin(
   //     "https://cookgiftstageapi.essentialdemo.com/connect/token",
